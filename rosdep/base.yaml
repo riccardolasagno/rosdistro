@@ -566,7 +566,7 @@ gazebo:
     precise: [gazebo]
     quantal: [gazebo]
     raring: [gazebo]
-    saucy: [gazebo2]
+    saucy: [gazebo]
     trusty: [gazebo2]
 gcc-avr:
   arch: [avr-gcc]
